@@ -1,0 +1,1 @@
+{"name":"uno-real","private":true,"version":"1.0.0","scripts":{"dev":"vercel dev","start":"vercel dev"},"dependencies":{"stripe":"^18.5.0","@supabase/supabase-js":"^2.58.0"}}
